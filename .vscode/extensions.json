@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "ms-vscode.cpptools",
+        "ms-vscode.cpptools-extension-pack",
+        "ms-vscode.cpptools-themes",
+        "tal7aouy.theme",
+        "yzhang.markdown-all-in-one",
+        "tamasfe.even-better-toml",
+        "github.vscode-github-actions",
+    ]
+}

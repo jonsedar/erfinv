@@ -1,3 +1,7 @@
+# README.md
+
+## Erfinv Project `erfinv`
+
 Implementation of the inverse error function based on the rational
 approximation of percentage points of normal distribution available from
 https://www.jstor.org/stable/2347330.
